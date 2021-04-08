@@ -26,3 +26,4 @@ It is also known as nominal GDP. More technically, (real) GDP takes into account
 Total GDP divided by the population gives the per capita GDP, which roughly measures the average value of goods and services produced per person. The per capita income is closely related to the per capita GDP (though they are not the same). In general, the per capita income increases when the per capita GDP increases, and vice-versa. For instance, in the financial year 2015-16, the per capita income of India was ₹93,293, whereas the per capita GDP of India was $1717, which roughly amounts to ₹1,11,605.
 
 India ranks 11th in the world in terms of total GDP; however, it lies at the 139th position in terms of per capita GDP.
+Made by: utkarsh raj
